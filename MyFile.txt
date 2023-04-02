@@ -9,3 +9,9 @@
 5) This is the second commit on the dev-1 branch
 
 6) This is the third commit on the dev-1 branch
+
+7) this is the first commit on the dev-2 branch
+
+8) This is the second commit on the dev-2 branch
+
+9) This is the third commit on the dev-2 branch
