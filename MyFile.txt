@@ -5,3 +5,5 @@
 3) This is the third commit
 
 4) This is the first commit on the dev-1 branch
+
+5) This is the second commit on the dev-1 branch
